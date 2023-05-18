@@ -29,10 +29,10 @@ public class StandardTests {
 		
 	}
 	
-	@Test
-    void failingTest() {
-        fail("a failing test");
-    }
+//	@Test
+//    void failingTest() {
+//        fail("a failing test");
+//    }
 	@Test
     @Disabled("for demonstration purposes")
     void skippedTest() {

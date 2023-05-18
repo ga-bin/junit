@@ -1,4 +1,4 @@
-package com.example.project;
+package com.example.project.order;
 
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;
